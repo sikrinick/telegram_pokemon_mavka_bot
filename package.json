@@ -5,11 +5,11 @@
   "main": "build/index.js",
   "type": "module",
   "scripts": {
-    "start": "джеджалик --розширення=1 покемон_бот.м build/index.js && echo 'Скомпіловано' && node build/index.js"
+    "start": "джеджалик --розширення=1 старт покемон_бот.м"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mavka": "0.91.3"
+    "mavka": "^0.91.3"
   }
 }
